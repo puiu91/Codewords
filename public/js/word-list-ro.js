@@ -1,0 +1,175 @@
+var wordList = [
+spiridus
+Curte
+Păianjen
+Baterie
+Banca
+Australia
+Șuncă
+Vânt
+Pinguin
+Revoluției
+Gigant
+plajă
+Ninja
+Băț
+reductie
+Apă
+Printesa
+Rachetă
+Marmură
+Catel
+Perete
+Pirat
+Berlin
+Hoţ
+Morcov
+Loc
+pui
+Avocat
+căpușă
+Africa.
+Robot
+Europa
+Scorpion
+Îndreptare către
+Anglia.
+Ruletă
+Dovleac
+Comprimat
+Mierea
+Urmareste
+Peşte
+Ac
+Franţa
+Viata
+Leagăn
+cartelă
+Pirat
+Dinte
+coroană
+Etichetă
+Jack
+găurii.
+Halbă
+Gard
+Mantie
+palma
+Legendă
+plastici
+Agent
+Veterinar
+Triunghi
+Deget mare
+Paie
+Tokyo
+Bici
+Inimă
+Nuca
+Minge
+Grevă
+Înapoi
+curea
+Împământare
+Lipirea
+Cutie
+Dinozaur
+Runda:
+Melc
+Biserică
+Egipt
+Paraşuta
+Martie
+Gaz
+Mamut
+Celu
+Stoc
+Grecia
+Noapte
+Vid
+Înregistrarea
+Washington
+Lansarea
+coloană vertebrală
+Inorog
+Aprindere
+Geniu
+Londra
+Om de Zapada
+cizmă
+reci
+Ciocolată
+pădure
+Goarnă
+Organ
+Vierme
+Hollywood
+  Îngheţată
+  Data
+  Vrăjitoare
+  mic
+  Graţie
+  Turn
+  Zaruri
+  Publică
+  Kiwi
+  Călătorie
+  Verde
+  Figura 2.
+  Vițel
+  Fisier
+  Stâlp
+  Port
+  corecți
+  Laser
+  Turcia
+  Fier
+  Război
+  Pisica
+  Gură
+  Agăţarea
+  Piramidă
+  Sticlă
+  Avion
+  până jos.
+  Supererou
+  Inel
+  Masă
+  mente
+  Zăpadă
+  Om de stiinta
+  Noroc
+  Ciclu
+  artar
+  Petrol
+  lanternă
+  Portocaliu
+  de hârtie
+  Mănușă
+  Furculiţă
+  Server
+  Școală
+  Pantof
+  Lovirea
+  Leu
+  Schimba
+  grad
+  Balenă
+  Luna
+  a da cu mina
+  Cruce
+  Rigla
+  Pilotarea
+  laborator
+  bacă
+  Rând
+  Camp
+  Centaur
+  Mexic
+  Braţ
+  Placarea
+  Stadion
+  Mașină de spălat
+  Regină
+  Cerc
+]
